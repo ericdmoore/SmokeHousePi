@@ -55,12 +55,12 @@ Toggle Through:
 - Food: Current temp
 - Time Chart of Pit Temp vs Food Temp
 ```
-320
+(320)
 |           _____
 |   __     /     \    ___ 302
 | -/  \___/       \__/
 |
-280 5m ago________________now
+(280)5m ago_______________now
 ```
 
 ### Local Application (Coming Soon)
