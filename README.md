@@ -94,7 +94,7 @@ But perhaps you have a raspbery Pi laying around, not doing much - give it a new
 
 At around $5 to get started, or less than $30 for a pretty nice setup,isn't that worth a try to see what kind of smoke ring you can get on your brisket for $30?
 
-## One More Thing: Open BBQx
+## One More Thing: OpenBBQ.org
 
 The `SmokeHousePi` will be publishing an open data standard for sharing ~~recipies~~ __cooking profiles__. SmokeHousePi users  can import and share profiles from others that make award winning slow cooked, or hot-fired BBQ. 
 
