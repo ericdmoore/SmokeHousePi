@@ -9,7 +9,7 @@ Living in Texas, perhaps it goes with out saying that I <3 BBQ. I love eating it
 
 For me great BBQ often falls into category of things in life where its better to have a friend who is way into it than doing it yourself (think boats, beach homes, and plenty other pinkies-out possessions) its so demanding to do-it-yourself. And as the owner of a BigGreenEgg I want to like it. I really do. However, once you break down and by some type of BBQ compauter... you realize that these things are "not desgined by Apple" to say the least...
 
-I get it.
+I get it. BBQ is a time consuming art that is learned over time, but cmon its the 21st century and this seems like a pretty basic task. Thus as a way of taking [Atwood's Law](//blog.codinghorror.com/the-principle-of-least-power/) to extremes - I bring you `SmokeHousePi`
 
 ## BYO Hardware
 
