@@ -85,5 +85,5 @@ Toggle Through:
 
 The `SmokeHousePi` will be publishing an open data standard for sharing ~~recipies~~ __cooking profiles__. SmokeHousePi users  can import and share profiles from others that make award winning slow cooked, or hot-fired BBQ. 
 
-All this will be accomplished over the `BBQx` network.
+All this will be accomplished over the `OpenBBQ.org` network (Coming Sooon)
 
