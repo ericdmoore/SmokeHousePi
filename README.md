@@ -79,16 +79,18 @@ Toggle Through:
 ## Bill of Materials:
 | Setup | Price |   Item |
 | ---- |-------|-------------|
-| min | $54 USD |  [Raspberr Pi + Power Supply](//amzn.to/2XtNlak) | 
+| min | $55 USD |  [Raspberr Pi + Power Supply](//amzn.to/2XtNlak) | 
 | min| $ 5 USD |  [Pit Probe](//www.sparkfun.com/products/13715) | 
 | half | $22 USD |  [Weather Proof Case](//amzn.to/2JlQ2H1) | 
 | half | $6 USD | [Fire Breather Fan/Blower](//www.sparkfun.com/products/11270) |
 | full  | $27 USD | [LCD Display](//www.sparkfun.com/products/14040) |
 | full  | $52 USD | [Food Probe ](www.thermoworks.com/THS-113-177) |
 | full  | $50 USD | [Open Lid Sensor ](https://www.sparkfun.com/products/15244) |
-| TOTAL | $59 USD + tax | Minimum Setup |
-| TOTAL | $87 USD + tax |   Half Monty Setup |
-| TOTAL | $216 USD + tax |  Full Monty Setup |
+| TOTAL | $60 USD + tax | Minimum Setup |
+| TOTAL | $88 USD + tax |   Half Monty Setup |
+| TOTAL | $217 USD + tax |  Full Monty Setup |
+
+But perhaps you have a raspbery Pi laying around, not doing much - give it a new smokey purpose: fire box duty; at around $5 to get started... or less than $30 for a pretty nice setup - c'mon, isn't that worth a try to see what kind of smoke ring you can get on your brisket for $30?
 
 ## One More Thing: Open BBQx
 
