@@ -6,7 +6,7 @@ The Open Source BBQ Computer.
 ### Required Minimum
 
 1. Raspbery Pi + Wifi Connection + Power Supply
-2. High Temp Themrmo Sensor
+2. High Temp Thermo Sensor
 
 ### Opttional
 
