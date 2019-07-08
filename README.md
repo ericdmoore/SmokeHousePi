@@ -3,6 +3,14 @@ The Open Source BBQ Computer.
 
 <img width="100%" alt="SmokeHousePi Logo" src="/art/exports/Rect2x1.svg"/>
 
+## Introduction
+
+Living in Texas, perhaps it goes with out saying that I <3 BBQ. I love eating it, smelling it, making it, the sides that accompany, I love the labor of love that goes into it all (well kinda).
+
+For me great BBQ often falls into category of things in life where its better to have a friend who is way into it than doing it yourself (think boats, beach homes, and plenty other pinkies-out possessions) its so demanding to do-it-yourself. And as the owner of a BigGreenEgg I want to like it. I really do. However, once you break down and by some type of BBQ compauter... you realize that these things are "not desgined by Apple" to say the least...
+
+I get it.
+
 ## BYO Hardware
 
 ### Required Minimum
@@ -72,14 +80,15 @@ Toggle Through:
 | Setup | Price |   Item |
 | ---- |-------|-------------|
 | min | $54 USD |  [Raspberr Pi + Power Supply](//amzn.to/2XtNlak) | 
-| min| $ 5 USD |  [Pit Probe](//www.sparkfun.com/products/13715)
+| min| $ 5 USD |  [Pit Probe](//www.sparkfun.com/products/13715) | 
+| half | $22 USD |  [Weather Proof Case](//amzn.to/2JlQ2H1) | 
 | half | $6 USD | [Fire Breather](//www.sparkfun.com/products/11270) |
 | full  | $27 USD | [LCD Display](//www.sparkfun.com/products/14040) |
 | full  | $52 USD | [Food Probe ](www.thermoworks.com/THS-113-177) |
 | full  | $50 USD | [Open Lid Sensor ](https://www.sparkfun.com/products/15244) |
 | TOTAL | $59 USD + tax | Minimum Setup |
-| TOTAL | $65 USD + tax |   Half Monty Setup |
-| TOTAL | $194 USD + tax |  Full Monty Setup |
+| TOTAL | $87 USD + tax |   Half Monty Setup |
+| TOTAL | $216 USD + tax |  Full Monty Setup |
 
 ## One More Thing: Open BBQx
 
