@@ -1,7 +1,7 @@
 # SmokeHousePi
 The Open Source BBQ Computer.
 
-<img width="100%" alt="SmokeHousePi Logo" src="/art/exports/Rect3x1.jpg"/>
+<img width="100%" alt="SmokeHousePi Logo" src="/art/exports/Rect2x1.svg"/>
 
 ## BYO Hardware
 

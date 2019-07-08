@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="384px" height="128px" viewBox="0 0 384 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Rect3x1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <text id="text-1" font-family="LilyScriptOne-Regular, Lily Script One" font-size="43" font-weight="normal" letter-spacing="4.48000002" fill="#FDF9F0">
+            <tspan x="30.6844999" y="62">SmokeHouseP</tspan>
+            <tspan x="343.3825" y="62">i</tspan>
+        </text>
+        <filter x="-2.1%" y="-8.5%" width="105.2%" height="123.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <text id="text-3" font-family="Lora-Regular, Lora" font-size="20" font-weight="normal" letter-spacing="1.25" fill="#FDF9F0">
+            <tspan x="20.68" y="96">The Open Source BBQ Computer</tspan>
+        </text>
+        <filter x="-1.8%" y="-20.8%" width="103.6%" height="162.5%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Rect3x1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#DC4A36" x="0" y="0" width="384" height="128"></rect>
+        <g id="Group-2" opacity="0.553036644" transform="translate(-15.000000, -5.000000)" fill="#F1F1F1" fill-opacity="0.3">
+            <g id="Group">
+                <rect id="Rectangle" transform="translate(22.627417, 23.627417) rotate(-315.000000) translate(-22.627417, -23.627417) " x="6.627417" y="7.627417" width="32" height="32"></rect>
+                <rect id="Rectangle" transform="translate(68.627417, 23.627417) rotate(-315.000000) translate(-68.627417, -23.627417) " x="52.627417" y="7.627417" width="32" height="32"></rect>
+                <rect id="Rectangle" transform="translate(114.627417, 23.627417) rotate(-315.000000) translate(-114.627417, -23.627417) " x="98.627417" y="7.627417" width="32" height="32"></rect>
+                <rect id="Rectangle" transform="translate(160.627417, 23.627417) rotate(-315.000000) translate(-160.627417, -23.627417) " x="144.627417" y="7.627417" width="32" height="32"></rect>
+                <rect id="Rectangle" transform="translate(206.627417, 22.627417) rotate(-315.000000) translate(-206.627417, -22.627417) " x="190.627417" y="6.627417" width="32" height="32"></rect>
+                <rect id="Rectangle" transform="translate(252.627417, 22.627417) rotate(-315.000000) translate(-252.627417, -22.627417) " x="236.627417" y="6.627417" width="32" height="32"></rect>
+                <rect id="Rectangle" transform="translate(298.627417, 22.627417) rotate(-315.000000) translate(-298.627417, -22.627417) " x="282.627417" y="6.627417" width="32" height="32"></rect>
+                <rect id="Rectangle" transform="translate(344.627417, 22.627417) rotate(-315.000000) translate(-344.627417, -22.627417) " x="328.627417" y="6.627417" width="32" height="32"></rect>
+                <rect id="Rectangle" transform="translate(389.627417, 23.627417) rotate(-315.000000) translate(-389.627417, -23.627417) " x="373.627417" y="7.627417" width="32" height="32"></rect>
+            </g>
+            <g id="Group" transform="translate(0.000000, 46.000000)">
+                <rect id="Rectangle" transform="translate(22.627417, 23.627417) rotate(-315.000000) translate(-22.627417, -23.627417) " x="6.627417" y="7.627417" width="32" height="32"></rect>
+                <rect id="Rectangle" transform="translate(68.627417, 23.627417) rotate(-315.000000) translate(-68.627417, -23.627417) " x="52.627417" y="7.627417" width="32" height="32"></rect>
+                <rect id="Rectangle" transform="translate(114.627417, 23.627417) rotate(-315.000000) translate(-114.627417, -23.627417) " x="98.627417" y="7.627417" width="32" height="32"></rect>
+                <rect id="Rectangle" transform="translate(160.627417, 23.627417) rotate(-315.000000) translate(-160.627417, -23.627417) " x="144.627417" y="7.627417" width="32" height="32"></rect>
+                <rect id="Rectangle" transform="translate(206.627417, 22.627417) rotate(-315.000000) translate(-206.627417, -22.627417) " x="190.627417" y="6.627417" width="32" height="32"></rect>
+                <rect id="Rectangle" transform="translate(252.627417, 22.627417) rotate(-315.000000) translate(-252.627417, -22.627417) " x="236.627417" y="6.627417" width="32" height="32"></rect>
+                <rect id="Rectangle" transform="translate(298.627417, 22.627417) rotate(-315.000000) translate(-298.627417, -22.627417) " x="282.627417" y="6.627417" width="32" height="32"></rect>
+                <rect id="Rectangle" transform="translate(344.627417, 22.627417) rotate(-315.000000) translate(-344.627417, -22.627417) " x="328.627417" y="6.627417" width="32" height="32"></rect>
+                <rect id="Rectangle" transform="translate(389.627417, 23.627417) rotate(-315.000000) translate(-389.627417, -23.627417) " x="373.627417" y="7.627417" width="32" height="32"></rect>
+            </g>
+            <g id="Group" transform="translate(0.000000, 92.000000)">
+                <rect id="Rectangle" transform="translate(22.627417, 23.627417) rotate(-315.000000) translate(-22.627417, -23.627417) " x="6.627417" y="7.627417" width="32" height="32"></rect>
+                <rect id="Rectangle" transform="translate(68.627417, 23.627417) rotate(-315.000000) translate(-68.627417, -23.627417) " x="52.627417" y="7.627417" width="32" height="32"></rect>
+                <rect id="Rectangle" transform="translate(114.627417, 23.627417) rotate(-315.000000) translate(-114.627417, -23.627417) " x="98.627417" y="7.627417" width="32" height="32"></rect>
+                <rect id="Rectangle" transform="translate(160.627417, 23.627417) rotate(-315.000000) translate(-160.627417, -23.627417) " x="144.627417" y="7.627417" width="32" height="32"></rect>
+                <rect id="Rectangle" transform="translate(206.627417, 22.627417) rotate(-315.000000) translate(-206.627417, -22.627417) " x="190.627417" y="6.627417" width="32" height="32"></rect>
+                <rect id="Rectangle" transform="translate(252.627417, 22.627417) rotate(-315.000000) translate(-252.627417, -22.627417) " x="236.627417" y="6.627417" width="32" height="32"></rect>
+                <rect id="Rectangle" transform="translate(298.627417, 22.627417) rotate(-315.000000) translate(-298.627417, -22.627417) " x="282.627417" y="6.627417" width="32" height="32"></rect>
+                <rect id="Rectangle" transform="translate(344.627417, 22.627417) rotate(-315.000000) translate(-344.627417, -22.627417) " x="328.627417" y="6.627417" width="32" height="32"></rect>
+                <rect id="Rectangle" transform="translate(389.627417, 23.627417) rotate(-315.000000) translate(-389.627417, -23.627417) " x="373.627417" y="7.627417" width="32" height="32"></rect>
+            </g>
+        </g>
+        <g id="SmokeHousePi" fill="#FDF9F0" fill-opacity="1">
+            <use filter="url(#filter-2)" xlink:href="#text-1"></use>
+            <use xlink:href="#text-1"></use>
+        </g>
+        <g id="The-Open-Source-BBQ" fill="#FDF9F0" fill-opacity="1">
+            <use filter="url(#filter-4)" xlink:href="#text-3"></use>
+            <use xlink:href="#text-3"></use>
+        </g>
+    </g>
+</svg>
