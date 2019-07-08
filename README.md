@@ -82,7 +82,7 @@ Toggle Through:
 | min | $54 USD |  [Raspberr Pi + Power Supply](//amzn.to/2XtNlak) | 
 | min| $ 5 USD |  [Pit Probe](//www.sparkfun.com/products/13715) | 
 | half | $22 USD |  [Weather Proof Case](//amzn.to/2JlQ2H1) | 
-| half | $6 USD | [Fire Breather](//www.sparkfun.com/products/11270) |
+| half | $6 USD | [Fire Breather Fan/Blower](//www.sparkfun.com/products/11270) |
 | full  | $27 USD | [LCD Display](//www.sparkfun.com/products/14040) |
 | full  | $52 USD | [Food Probe ](www.thermoworks.com/THS-113-177) |
 | full  | $50 USD | [Open Lid Sensor ](https://www.sparkfun.com/products/15244) |
