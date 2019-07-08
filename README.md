@@ -60,7 +60,7 @@ Toggle Through:
 |   __     /     \    ___ 302
 | -/  \___/       \__/
 |
-280 _________________________
+280 5m ago________________now
 ```
 
 ### Local Application (Coming Soon)
